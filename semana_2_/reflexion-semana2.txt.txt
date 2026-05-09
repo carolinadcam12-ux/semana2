@@ -1,0 +1,11 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+porque es  una de las habilidades más prácticas y liberadoras que puede tener un desarrollador. Aunque las interfaces gráficas (ventanas y carpetas) son cómodas, la terminal ofrece un nivel de control y precisión que el ratón simplemente no puede alcanzar. 
+La terminal permite encadenar comandos. Se evidencia que siempre se hace la misma secuencia de tareas (por ejemplo: crear una carpeta de respaldo, comprimir archivos y enviarlos a otro lugar), se puede escribir un pequeño archivo de texto (un script) que haga todo eso  automáticamente. Las interfaces gráficas son muy difíciles de programar, mientras que la terminal está diseñada para ello.
+Dominar la navegación y organización en la terminal es el primer paso para dejar de ser un usuario de herramientas y convertirte en alguien que domina el entorno donde se construye la tecnología.
+Saber usar la terminal te da:
+Más velocidad
+Más control
+Más independencia de herramientas gráficas
+Acceso a herramientas profesionales
+Un desarrollador que domina la terminal no solo trabaja más rápido, sino que puede resolver problemas que otros ni siquiera saben abordar.
