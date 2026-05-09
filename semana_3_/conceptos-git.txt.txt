@@ -1,0 +1,5 @@
+Repositorio:es una carpeta inteligente que guarda no solo los archivos actuales, sino también todo el historial de cambios que han ocurrido desde que se creó el proyecto.
+
+commit: Guardar el estado actual de mi trabajo con este mensaje descriptivo
+
+push:Es el paso final para compartir tu trabajo con el resto del equipo.
